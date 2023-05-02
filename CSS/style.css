@@ -1,0 +1,225 @@
+.top-container {
+    background-color: #C9EEFF;
+    border: 0;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Ballet', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+}
+
+body {
+    text-align: center;
+    background-color: #C9EEFF;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 300px;
+    height: 300px;
+}
+
+.picture-myself {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+
+.p1 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    left: 450px;
+    bottom: 150px;
+}
+
+.mou1 {
+    position: absolute;
+    left: 50px;
+}
+
+.mou2 {
+    position: relative;
+    left: 300px;
+}
+
+.bottom2-cloud {
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 200px;
+}
+
+.mou3 {
+    position: absolute;
+    left: 200px;
+}
+
+.mou4 {
+    position: absolute;
+    right: 200px;
+}
+
+.mou5 {
+    position: relative;
+    left: 200px;
+}
+
+.sun {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 100px;
+}
+
+.pc {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+}
+
+.p2 {
+    height: 200px;
+    width: 300px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0px;
+    padding: 0px;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.5;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+li:before {
+    content: "•";
+    margin-right: 5px;
+}
+
+.contact-information {
+    margin-top: 50px;
+}
+
+.contact-information h3 {
+    margin-bottom: 10px;
+}
+
+.contact-information ul {
+    margin-left: 20px;
+}
+
+.contact-information li {
+    margin-bottom: 5px;
+}
+
+.skills {
+    margin-top: 50px;
+}
+
+.skills h3 {
+    margin-bottom: 10px;
+}
+
+.skills ul {
+    margin-left: 20px;
+}
+
+.skills li {
+    margin-bottom: 5px;
+}
+
+.education {
+    margin-top: 50px;
+}
+
+.education h3 {
+    margin-bottom: 10px;
+}
+
+.education ul {
+    margin-left: 20px;
+}
+
+.education li {
+    margin-bottom: 5px;
+}
+
+.work-experience {
+    margin-top: 50px;
+}
+
+.work-experience h3 {
+    margin-bottom: 10px;
+}
+
+.work-experience ul {
+    margin-left: 20px;
+}
+
+.work-experience li {
+    margin-bottom: 5px;
+}
+
+.projects {
+    margin-top: 50px;
+}
+
+.projects h3 {
+    margin-bottom: 10px;
+}
+
+.projects ul {
+    margin-left: 20px;
+}
+
+.projects li {
+    margin-bottom: 5px;
+}

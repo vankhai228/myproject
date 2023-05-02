@@ -1,0 +1,129 @@
+.btn {
+    background: #3498db;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+.btn:hover bnt {
+    background-color: #2bc4ad;
+}
+
+.top-container {
+    background-color: #97DEFF;
+    padding: 0 50px 0 50px;
+    position: relative;
+}
+
+.sun {
+    width: 15rem;
+    position: relative;
+    left: 30%;
+}
+
+.top-cloud {
+    width: 30%;
+    position: absolute;
+    right: 15%;
+    top: 15%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 30%;
+}
+
+.bottom2-cloud {
+    position: absolute;
+    bottom: 40%;
+    right: 35%;
+}
+
+.bottom3-cloud {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.bottom4-cloud {
+    position: absolute;
+    top: 40%;
+    right: 20%;
+}
+
+.middle-container {
+    padding: 100px;
+}
+
+h1 {
+    font-family: 'Ballet', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+
+    font-family: 'Orbitron', sans-serif;
+    color: #AD7BE9;
+}
+
+h4 {
+    padding-bottom: 30px;
+}
+
+p {
+    color: #333333;
+    font-style: normal;
+    width: 80%;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    color: #40514E;
+}
+
+.skill-row {
+    width: 30%;
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.picture-myself {
+    float: left;
+    width: 25%;
+    padding-right: 20px;
+}
+
+.pc {
+    float: right;
+    width: 25%;
+    margin-right: 10%;
+}
+
+.bottom-container {
+    background-color: #95BDFF;
+    padding-bottom: 50px;
+}
+
+hr {
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 15px;
+    width: 20%;
+    color: #454545;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
